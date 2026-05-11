@@ -1,5 +1,5 @@
 # Azure Data Engineering with Databricks
-## Formula 1 End-to-End Azure Data Engineering Project## 🏎️ Project Overview
+## Formula 1 End-to-End Azure Data Engineering Project Overview 🏎️ ##
 This project builds a production-grade data pipeline using the Medallion Architecture. It automates the process of ingesting Formula 1 motor racing data from the Ergast API, transforming it into a structured format, and preparing it for analytical reporting.
 ## 🏗️ Architecture Diagram
 
